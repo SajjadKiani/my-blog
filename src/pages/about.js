@@ -7,6 +7,7 @@ export default function About() {
       <div className="aboutNavbar" />
       <div className="aboutContent">
         <div className="aboutTitle">About me </div>
+          <p>Sajad Kiyani Moghaddam</p>
         <hr />
       </div>
     </div>

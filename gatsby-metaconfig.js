@@ -1,10 +1,10 @@
 module.exports = {
   blogName: "My Blog",
 
-  title: "Gatsby Clean Starter",
-  author: "[Your Name]",
-  bio: "This is my bio ",
+  title: "Blog",
+  author: "Saji",
+  bio: "Computer Science",
 
-  githubUrl: "https://github.com/soheee-bae",
-  blogUrl: "https://soheee-bae.github.io/soheee-bae/",
+  githubUrl: "https://github.com/sajjadkiani",
+  blogUrl: "https://sajadkiani.me/blog",
 };
