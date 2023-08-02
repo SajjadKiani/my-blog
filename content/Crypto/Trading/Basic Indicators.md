@@ -1,4 +1,11 @@
-# Technical Analysis
+---
+title: "Technical Analysis"
+date: 2023-08-02 14:51:13
+subtitle: "Do you want to know more about Technical Analysis?"
+category: "Trading"
+draft: false
+---
+
 
 ## MACD
 
