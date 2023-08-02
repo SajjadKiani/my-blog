@@ -5,6 +5,7 @@
 const metaConfig = require("./gatsby-metaconfig");
 
 module.exports = {
+  pathPrefix: "/my-blog",
   siteMetadata: metaConfig,
   plugins: [
     {
